@@ -1,3 +1,4 @@
 a=10
 b=6
 print("product = ",a*b)
+print("test")
